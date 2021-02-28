@@ -3,6 +3,8 @@
 
 A simple express application with a post route setup that takes in two numbers via a form, retrieves the value of the inputs from request.body, and stores them in variables before computing the numbers and responding. 
 
+This application has been updated to now include a link to a new page that will calculate the user's BMI. 
+
 ## License 
 
 MIT License
